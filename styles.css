@@ -70,3 +70,22 @@ padding: 0.5rem 1rem;
 .navigation .link-active{
     font-weight: bold;
 }
+
+.hero{
+    padding: 2rem;
+}
+
+.hero .hero-image{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.hero .hero-heading{
+    padding-top: 1rem;
+    color: #fb923c;
+}
+
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
+}
